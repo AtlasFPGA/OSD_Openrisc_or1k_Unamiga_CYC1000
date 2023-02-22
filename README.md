@@ -50,4 +50,11 @@ CYC1000 -> https://shop.trenz-electronic.de/en/Products/Trenz-Electronic/CYC1000
 
 or1k -> Open Risc processor 1000 or 1200 a mips32 cpu.
 
+ORIGINAL UNAMIGA WE USE NOWADAYS HIS OSD WITH NO MODIFICATION:
+
+DIY ORIGINAL UNAMIGA:
+![image](https://github.com/AtlasFPGA/OSD_Openrisc_or1k_Unamiga_CYC1000/blob/main/unamiga-mod-copia.jpg)
+
+THE UNAMIGA WERE TRANSLATED INTO SPANISH, HERE THE USER HAS ONE UNAMIGA WITH PROBLEMS WITH SYNC SIGNALS;
+![image](https://github.com/AtlasFPGA/OSD_Openrisc_or1k_Unamiga_CYC1000/blob/main/Fallos_sincronismo_OSD_TRADUCIDO_ESP.png)
 
