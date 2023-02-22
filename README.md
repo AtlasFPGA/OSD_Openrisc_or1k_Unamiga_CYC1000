@@ -40,8 +40,13 @@ https://openrisc.io/or1k.html
 
 Acronimos:
 OSD -> On Screen Display.
-E/S -> Entradas/Salidas
-I/O -> Input/Output
-CYC1000 -> https://shop.trenz-electronic.de/en/Products/Trenz-Electronic/CYC1000-Intel-Cyclone-10/
+
+E/S -> Entradas/Salidas.
+
+I/O -> Input/Output.
+
+CYC1000 -> https://shop.trenz-electronic.de/en/Products/Trenz-Electronic/CYC1000-Intel-Cyclone-10/ .
+
 or1k -> Open Risc processor 1000 or 1200 a mips32 cpu.
+
 
