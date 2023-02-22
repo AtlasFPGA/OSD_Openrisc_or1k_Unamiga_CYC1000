@@ -1,6 +1,6 @@
 # OSD_Openrisc_or1k_Unamiga_CYC1000
 
-First to thank to Edu Arana and Neuro to still mantain a repository with the OSD openrisc:
+First thanks, Edu Arana and Neuro to still mantain a repository with the OSD openrisc:
 
 Primero agradecer que tanto Neuro y Edu Arana, pusieran a disposición los fuentes del OSD:
 
