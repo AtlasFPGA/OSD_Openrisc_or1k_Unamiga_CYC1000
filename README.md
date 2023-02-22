@@ -21,5 +21,5 @@ https://opencores.org/projects/or1k/
 With a revision of the OSD to meet the requirements of the CYC1000, The core unamiga could do better and could have more optimized memory schemes.
 
 
-Entre la parte del osd y la parte del core unamiga del cual disfruta en cyc1000 con la placa de entradas y salidas ATLAS se podría obtenner un mejor aprobechamiento de los 8Mbytes que dispone la CYC1000.
+Entre la parte del osd y la parte del core unamiga del cual disfruta en cyc1000 con la placa de entradas y salidas ATLAS se podría obtenner un mejor aprovechamiento de los 8Mbytes que dispone la CYC1000.
 
