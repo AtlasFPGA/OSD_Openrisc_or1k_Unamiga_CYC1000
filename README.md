@@ -39,6 +39,7 @@ Manual or1k;
 https://openrisc.io/or1k.html
 
 Acronimos:
+
 OSD -> On Screen Display.
 
 E/S -> Entradas/Salidas.
