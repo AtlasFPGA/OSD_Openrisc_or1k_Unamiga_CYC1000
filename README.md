@@ -1,5 +1,14 @@
 # OSD_Openrisc_or1k_Unamiga_CYC1000
 
+First to thank to Edu Arana and Neuro to still mantain a repository with the osd openrisc:
+Primero agradecer que tanto Neuro y Edu Arana, pusieran a disposición los fuentes del OSD:
+
+https://github.com/neurorulez/UnAmigaOsd
+
+The problems that arise at this commmon core is that the core is programed allways as 32Mbytes at base.
+But an inner work for CYC1000 could be done.
+
+
 The minimig core uses his own soc risc processor in order to deal with the OSD.
 
 This risc procesors are first used in TERASIC DE1, and is a family of a mips32 ork1000 or or1200.
