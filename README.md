@@ -25,3 +25,8 @@ With a revision of the OSD to meet the requirements of the CYC1000 8MBX16BIT wit
 
 Entre la parte del OSD y la parte del core unamiga del cual disfruta en CYC1000 con la placa de entradas y salidas ATLAS se podría obtenner un mejor aprovechamiento de los 8Mbytes que dispone la CYC1000.
 
+Manual or1k;
+https://openrisc.io/or1k.html
+
+
+
