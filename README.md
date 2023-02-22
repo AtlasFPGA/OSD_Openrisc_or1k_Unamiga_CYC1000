@@ -8,7 +8,7 @@ El core de minimig usa para el desempeño del OSD un core libre que implementand
 
 The first Minimig core that uses the or1k:
 
-El primer Minimig core que sepa que use este openrisc para el osd es:
+El primer Minimig core que sepa que use este openrisc para el OSD es:
 
 https://github.com/rkrajnc/minimig-de1
 
@@ -28,5 +28,10 @@ Entre la parte del OSD y la parte del core unamiga del cual disfruta en CYC1000 
 Manual or1k;
 https://openrisc.io/or1k.html
 
-
+Acronimos:
+OSD -> On Screen Display.
+E/S -> Entradas/Salidas
+I/O -> Input/Output
+CYC1000 -> https://shop.trenz-electronic.de/en/Products/Trenz-Electronic/CYC1000-Intel-Cyclone-10/
+or1k -> Open Risc processor 1000 or 1200 a mips32 cpu.
 
